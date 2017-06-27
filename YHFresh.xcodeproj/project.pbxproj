@@ -365,7 +365,7 @@
 			baseConfigurationReference = 35FB2F1B2962308CA2D0CE7F /* Pods-YHFresh.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer: 崇崇 李 (6Y3R9WU253)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = 3V3LN88X9L;
 				INFOPLIST_FILE = YHFresh/Info.plist;
@@ -382,7 +382,7 @@
 			baseConfigurationReference = A2AF95A3411E650196662F35 /* Pods-YHFresh.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer: 崇崇 李 (6Y3R9WU253)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = 3V3LN88X9L;
 				INFOPLIST_FILE = YHFresh/Info.plist;
