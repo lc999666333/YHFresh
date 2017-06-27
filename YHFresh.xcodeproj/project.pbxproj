@@ -389,8 +389,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.yonghui.cloud.merchant.YHFresh;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "3890c0bd-9b5e-4055-8e6f-b54ad06e2ca5";
-				PROVISIONING_PROFILE_SPECIFIER = FreshPro;
+				PROVISIONING_PROFILE = "8c714b3c-cb85-42fe-add8-401f0c108267";
+				PROVISIONING_PROFILE_SPECIFIER = "yonghui-new-weidian";
 			};
 			name = Release;
 		};
